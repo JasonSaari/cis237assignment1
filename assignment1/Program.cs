@@ -1,4 +1,10 @@
-﻿using System;
+﻿///Programed by: Jason Saari
+///Date:         2/1/16
+///  Assignment 1 - Classes Review - Wine List
+/// 
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +16,7 @@ namespace assignment1
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
