@@ -2,7 +2,7 @@
 
 ## Due 02-01-2016
 
-## Author
+## Author: Jason Saari
 
 ## Description
 
@@ -55,5 +55,5 @@ Suggestion/Hints:
 ## Outside Resources Used
 
 ## Known Problems, Issues, And/Or Errors in the Program
-
+Serious know issues. Basic search is incomplete, as is the ability to add new Wine List Items on the list.  Need further work. 
 
